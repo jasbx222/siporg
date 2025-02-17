@@ -1,0 +1,41 @@
+.hero-main {
+    border-radius: 25px;
+    padding: 50px;
+    background-color: #27292a;
+    color: wheat;
+
+    background-image: url('src/assets/img/banner-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body {
+    background-color: black;
+}
+
+h5 {
+
+    padding: 20x;
+    margin-bottom: 15px;
+
+    font-size: 60px;
+}
+
+p {
+    max-width: 500px;
+    text-shadow: 1px black;
+    font-size: 20px;
+}
+
+h5 em {
+    color: #ec6090;
+}
+
+.container {
+    padding: 20px;
+    background-color: #212527;
+    border-radius: 25px;
+    margin-top: 10px;
+    color: wheat;
+}
