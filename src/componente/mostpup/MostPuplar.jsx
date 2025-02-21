@@ -17,7 +17,7 @@ const MostPuplar = () => {
 
 
 
-        <CardWrapper title="Bupg mobile" star="3.2" star2="3.3" img="./src/assets/img/popular-01.jpg"/>
+        <CardWrapper title="Bupg mobile" star="3.2" star2="3.3" img="./assets/img/popular-01.jpg"/>
         <CardWrapper title="FortNaight" star="2.2" star2="4.3" img="src\assets\img\popular-06.jpg"/>
         <CardWrapper title="Call Of Duaty" star="4.2" star2="3.2" img="src\assets\img\popular-03.jpg"/>
         <CardWrapper title="ATO" star="3.2" star2="3.3" img="src/assets/img/popular-04.jpg" />
